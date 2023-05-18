@@ -1,0 +1,11 @@
+{
+    "files.associations": {
+        "protocol.h": "c",
+        "simple-energest.h": "c",
+        "rime.h": "c",
+        "netstack.h": "c",
+        "linkaddr.h": "c",
+        "routing-table.h": "c"
+    },
+    "C_Cpp.errorSquiggles": "enabled"
+}
